@@ -25,7 +25,7 @@ Cloudinary or AWS S3 for storing images of food donations.
 MongoDB (NoSQL) for managing user data, donation listings, and transaction history in a flexible and scalable manner.
 Mongoose ORM for schema design and data validation.
 
-###Real-Time Features:
+### Real-Time Features:
 
 Socket.io for enabling real-time chat functionality between donors and recipients.
 Push Notifications using Firebase Cloud Messaging (FCM) or OneSignal for notifying users of new food listings and requests.
